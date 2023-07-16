@@ -1,8 +1,8 @@
 {
+  "homepage": "http://neerajrajak.github.io/react-contect-api-shopping-cart",
   "name": "shopping-cart",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://neerajrajak.github.io/react-contect-api-shopping-cart",
+  "private": false,
   "dependencies": {
     "@faker-js/faker": "^8.0.2",
     "@testing-library/jest-dom": "^5.16.5",

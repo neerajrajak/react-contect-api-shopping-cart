@@ -6,7 +6,7 @@ import Cart from "./components/Cart";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-contect-api-shopping-cart">
       <Header />
       <div className="App">
         <Routes>
