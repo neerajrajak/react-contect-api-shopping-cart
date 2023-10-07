@@ -13,6 +13,7 @@
     align-items: center;
     margin: 0 20px;
     margin-bottom: 20px;
+    width: 20rem;
   }
   
   .cartItemImg {
@@ -74,6 +75,10 @@
   .badge.bg-primary{
     background:none !important;
   }
+
+  .dropdown-menu{
+    left: -180px !important;
+    }
 
   /* Media Queries */
   @media (max-width: 771px) {
